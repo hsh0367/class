@@ -7,7 +7,7 @@ from cycler import cycler
 
 # 맷플롯립 한글 폰트 지정
 import matplotlib
-matplotlib.rc('font', family='NanumBarunGothic')
+matplotlib.rc('font', family='AppleGothic')
 matplotlib.rcParams['axes.unicode_minus'] = False
 
 set_matplotlib_formats('pdf', 'png')
